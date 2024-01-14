@@ -47,6 +47,7 @@ cd FrozenLake8x8-DQL-Enhanced
 python frozen_lake_qe.py
 
 ```
+or Just press F5 to open debug Terminal
 
 3\. Explore and modify the code as needed, and enjoy the visualized Q-Learning experience!
 
